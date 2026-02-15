@@ -1,0 +1,20 @@
+{
+  "name": "Nama Blog Anda",
+  "short_name": "frecudis",
+  "start_url": "https://frecudis.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#25D366",
+  "icons": [
+    {
+      "src": "https://link-icon-192px.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://link-icon-512px.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
